@@ -1,0 +1,4 @@
+[submodule "dv/amba_ahb_vip"]
+	path = dv/amba_ahb_vip
+	url = https://github.com/LPF9000/AMBA-AHB-VIP.git
+	branch = setup/initial-vip-import
